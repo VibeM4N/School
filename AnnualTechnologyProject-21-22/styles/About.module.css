@@ -1,0 +1,16 @@
+.container{
+  min-height: 100vh;
+  padding-top: 3rem;
+}
+
+.h2{
+    font-size: 1.1rem;
+    padding: 0.75rem;
+    border-radius: 5px;
+}
+
+.aboutcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
